@@ -1,0 +1,7 @@
+C:\Users\Ludmila\Documents\day1\day8\day8\bin\Debug\day8.exe.config
+C:\Users\Ludmila\Documents\day1\day8\day8\bin\Debug\day8.exe
+C:\Users\Ludmila\Documents\day1\day8\day8\bin\Debug\day8.pdb
+C:\Users\Ludmila\Documents\day1\day8\day8\obj\Debug\day8.csprojResolveAssemblyReference.cache
+C:\Users\Ludmila\Documents\day1\day8\day8\obj\Debug\day8.csproj.CoreCompileInputs.cache
+C:\Users\Ludmila\Documents\day1\day8\day8\obj\Debug\day8.exe
+C:\Users\Ludmila\Documents\day1\day8\day8\obj\Debug\day8.pdb
